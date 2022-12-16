@@ -14,6 +14,14 @@ T51’s objectives were to:
 •	Segment prospective customers with similar characteristics for target marketing opportunities 
 •	Create software solutions powered by data analytics to visually depict opportunities
 
+Data Sources
+
+T51 identified publicly available property and demographic datasets to use for analysis and modeling. Data was sourced from the City of Boston’s Open Data Hub, Mass.gov, and Census.gov. Data consisted of property and building characteristics, location data, and census tract level tables of age, sex, income, and education. The data was filtered on owner-occupied single-family homes to focus efforts on homeowners rather than landlords. The final aggregated and cleaned dataset contained ~20,000 properties.
+
+
+
+
+
 
 
 
