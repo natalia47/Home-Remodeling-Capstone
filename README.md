@@ -58,6 +58,7 @@ https://public.tableau.com/app/profile/natalia.barczyszyn/viz/RemodelersRUsCross
 
 
 
+
 Deliverables
 
 As part of the total solution, T51 developed a web-based sales performance dashboard and mobile app with ROI calculator. 
@@ -83,15 +84,15 @@ T51 was able to:
 •	use the results from the classification model to identify four cross-clusters of prospects that Remodelers R Us can target through personalized marketing
 •	design an interactive web-based dashboard for sales employees to track key sales performance metrics and monitor progress
 •	design a mobile app that predicts market value based on changes made to a property and calculate the expected ROI of a remodel
-•	-develop data-driven solutions to increase revenue and competitive advantage for Remodelers R Us
+•	develop data-driven solutions to increase revenue and competitive advantage for Remodelers R Us
 
 
 Recommendations
 
 T51 makes the following recommendations to Remodelers R Us as next steps:
-•	-Formulate marketing strategies based on the demographic and property types identified to be strong prospects for remodeling using either the top 4 cross-clusters or all 16 cross-clusters
-•	-Leverage additional data sources: 1) Google Maps images to analyze image data and find visual similarities among properties and 2) Open Building Permits data to identify renovations already underway and remove properties from being targeted.
-•	-Use a cloud database such as AWS to store large volumes of customer data which can refresh in real-time to provide up-to-date insights via dashboard and mobile app
-•	-Train Remodelers R Us employees on dashboard and mobile app use
+•	Formulate marketing strategies based on the demographic and property types identified to be strong prospects for remodeling using either the top 4 cross-clusters or all 16 cross-clusters
+•	Leverage additional data sources: 1) Google Maps images to analyze image data and find visual similarities among properties and 2) Open Building Permits data to identify renovations already underway and remove properties from being targeted.
+•	Use a cloud database such as AWS to store large volumes of customer data which can refresh in real-time to provide up-to-date insights via dashboard and mobile app
+•	Train Remodelers R Us employees on dashboard and mobile app use
 •	For Classification and Clustering, using remodeling likelihood scores rather than a binary “will remodel” and “will not remodel”
 
