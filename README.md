@@ -52,6 +52,7 @@ K-means clustering with principal component analysis (PCA) for dimensionality re
 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/109634860/208028239-a46a641a-896b-4229-b6b4-71647ae6c498.png">
+
 https://public.tableau.com/app/profile/natalia.barczyszyn/viz/RemodelersRUsCrossClusters/CrossClusterMap 
 
 
@@ -62,7 +63,7 @@ Deliverables
 As part of the total solution, T51 developed a web-based sales performance dashboard and mobile app with ROI calculator. 
 
 Dashboard:
-The web-based dashboard uses the classification results of properties likely to remodel and was designed for future state once targeted ads have been distributed and leads start converting. Management and other sales employees can use the dashboard to track sales goals, KPIs, revenue, types of remodels completed, and neighborhoods with high potential for remodeling. The dashboard is fully interactive and allows for filtering. Mock sales data was used in the initial version of the dashboard and would be replaced with real data once more sales data is collected. T51 also built a mobile version of the dashboard that can be accessed via Tableau Mobile app.
+The web-based dashboard uses the classification results of properties likely to remodel and was designed for future state once targeted ads have been distributed and leads start converting. Management and other sales employees can use the dashboard to track sales goals, KPIs, revenue, types of remodels completed, and neighborhoods with high potential for remodeling. The dashboard is fully interactive and allows for filtering. Mock sales data was used in the initial version of the dashboard and would be replaced with real data once sales data is collected. T51 also built a mobile version of the dashboard that can be accessed via Tableau Mobile app.
 
 Link to dashboard:
 https://public.tableau.com/views/RemodelersRUsDashboard/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link 
