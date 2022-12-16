@@ -55,6 +55,8 @@ K-means clustering with principal component analysis (PCA) for dimensionality re
 https://public.tableau.com/app/profile/natalia.barczyszyn/viz/RemodelersRUsCrossClusters/CrossClusterMap 
 
 
+
+
 Deliverables
 
 As part of the total solution, T51 developed a web-based sales performance dashboard and mobile app with ROI calculator. 
